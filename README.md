@@ -1,7 +1,7 @@
 # Smart-Assistant
 
 ## Description:
-In this project, we will make a smart assistant box which will help with the home-control, like controlling the lighting, controlling the room temperature, asking about date & time, etcز This project will facilitate some home activities & make life easier and more comfortable.
+In this project, we will make a smart assistant box which will help with the home-control, like controlling the lighting, controlling the room temperature, asking about date & time, etc This project will facilitate some home activities & make life easier and more comfortable.
 
 ## Some Appliances:
 * Controlling Your Lights: A wide variety of smart lighting is on the market. While some systems require a so-called bridge, a device that connects talks to the smart light, there are also smart light bulbs with a built-in Wi-Fi connection.
