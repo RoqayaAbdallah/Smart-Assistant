@@ -74,7 +74,6 @@
     
     {"tag": "info",
      "patterns": ["get me a cookie recipe",
-                  "what time is it?",
                   "how’s the traffic?",
                   "what’s the definition of [word]?",
                   "ask Wikipedia about [topic]"
@@ -90,13 +89,13 @@
                   ]
     },
     
-    {"tag":"play_music",
-     "patterns" : ["can i hear my smooth jazz playlist",
-                   "let's hear my workout playlist",
-                   "play some music",
-                   "i want to listen to music",
-                   "please play the new lady gaga song",
-                   "i need for you to play my maroon 5 playlist"
+    {"tag":"time",
+     "patterns" : ["what time is it now",
+                   "what is the current time in cairo",
+                   "what is the current time in new york",
+                   "what does it say on the clock",
+                   "what hour and minute is it",
+                   "please tell me the time"
                   ]
     },
     
@@ -111,13 +110,13 @@
                   ]
     },
     
-    {"tag":"time",
-     "patterns" : ["what time is it now",
-                   "what is the current time in cairo",
-                   "what is the current time in new york",
-                   "what does it say on the clock",
-                   "what hour and minute is it",
-                   "please tell me the time"
+    {"tag":"play_music",
+     "patterns" : ["can i hear my smooth jazz playlist",
+                   "let's hear my workout playlist",
+                   "play some music",
+                   "i want to listen to music",
+                   "please play the new lady gaga song",
+                   "i need for you to play my maroon 5 playlist"
                   ]
     }
             
